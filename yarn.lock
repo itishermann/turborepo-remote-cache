@@ -1466,6 +1466,13 @@
   dependencies:
     "@remix-run/node" "2.3.1"
 
+"@remix-run/express@^2.11.2":
+  version "2.11.2"
+  resolved "https://registry.yarnpkg.com/@remix-run/express/-/express-2.11.2.tgz#c23eacbc9b962694430f4a1aa8970c9480648a3c"
+  integrity sha512-ebyvHJKRBDgQGNBMxsILt21IwMTjGxQxlr0VNxRJo5rNd5CcuULpx/PPmsBc1gsc/Jx9aUXpT7a9l0UEOc6+jw==
+  dependencies:
+    "@remix-run/node" "2.11.2"
+
 "@remix-run/node@2.11.2":
   version "2.11.2"
   resolved "https://registry.yarnpkg.com/@remix-run/node/-/node-2.11.2.tgz#c27c8baeb9f361e1edd3cb2ba48991743f30d654"

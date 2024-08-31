@@ -9,7 +9,6 @@
     "remix"
   ],
   "license": "MIT",
-  "type": "module",
   "scripts": {
     "build": "remix build",
     "dev": "remix dev",
@@ -30,6 +29,7 @@
   "dependencies": {
     "@heroicons/react": "2.0.18",
     "@prisma/client": "^5.8.1",
+    "@remix-run/express": "^2.11.2",
     "@remix-run/node": "2.3.1",
     "@remix-run/react": "2.3.1",
     "@remix-run/serve": "2.3.1",
@@ -39,12 +39,15 @@
     "azure-blob-storage": "4.2.5",
     "azure-blob-store": "1.0.7",
     "classnames": "2.3.2",
+    "compression": "^1.7.4",
     "copy-to-clipboard": "3.3.3",
     "cross-env": "7.0.3",
     "debug": "4.3.4",
     "domain-functions": "2.5.1",
+    "express": "^4.19.2",
     "fs-blob-store": "6.0.0",
     "isbot": "3.7.1",
+    "morgan": "^1.10.0",
     "npm-run-all": "4.1.5",
     "prisma": "^5.8.1",
     "prop-types": "15.8.1",
