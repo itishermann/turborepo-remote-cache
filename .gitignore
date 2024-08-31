@@ -2,7 +2,7 @@ node_modules
 
 /build
 /public/build
-
+dist
 /cypress/screenshots
 /cypress/videos
 
